@@ -1,0 +1,20 @@
+.content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.btn{
+    background-color: green;
+    color: #fff;
+    border: none;
+    width: 168px;
+    height: 35px;
+    margin-right: 30px;
+}
+.form{
+    margin-top: 30px;
+}
+.uname,.pwd{
+    height:35px;
+    width:350px;
+}
